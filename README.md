@@ -1,15 +1,19 @@
 <div align="center">
 
-# 🛡️ Deepayan Dey
-
-### Cybersecurity | AI/ML | Digital Forensics
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:003b1f&height=220&section=header&text=Deepayan%20Dey&fontSize=60&fontColor=00FF41&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Digital%20Forensics&descAlignY=55&descSize=20&descColor=39FF14" width="100%"/>
 
 <br>
 
-![Followers](https://img.shields.io/github/followers/error404-004?label=Followers&style=for-the-badge&color=blue)
-![Profile Views](https://komarev.com/ghpvc/?username=error404-004&label=Profile%20Views&style=for-the-badge&color=blueviolet)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%2F%20AI--ML-red?style=for-the-badge)
-![Open To](https://img.shields.io/badge/Open%20To-Internships-brightgreen?style=for-the-badge)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Breaking+things+to+build+them+better." alt="Typing SVG" />
+</a>
+
+<br><br>
+
+![Followers](https://img.shields.io/github/followers/error404-004?label=Followers&style=for-the-badge&color=00FF41&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=error404-004&label=Profile%20Views&style=for-the-badge&color=00FF41&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%2F%20AI--ML-00FF41?style=for-the-badge&labelColor=0d1117)
+![Open To](https://img.shields.io/badge/Open%20To-Internships-39FF14?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -143,10 +147,10 @@ Deepayan Dey:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=error404-004&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error404-004&layout=compact&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=error404-004&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=39FF14&text_color=c9d1d9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=error404-004&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=error404-004&theme=radical&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=error404-004&hide_border=true&background=0D1117&ring=00FF41&fire=39FF14&currStreakLabel=00FF41" width="70%" />
 
 </div>
 
@@ -190,18 +194,3 @@ Deepayan Dey:
 <div align="center">
 <sub>Building secure, intelligent systems — one commit at a time.</sub>
 </div>
-
-<!--
-**error404-004/error404-004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
